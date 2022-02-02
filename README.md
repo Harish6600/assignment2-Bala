@@ -13,3 +13,13 @@ Vijayawada Internationl Airport
 2. After to reach the destination there is a Shopping Mall name Trend Set
 3. Back side of that mall there is a Dominos pizza
 4. Next to the dominos pizza is KFC
+
+# This is food list
+* Go to the KFC
+* Order the food 
+    * Chicken Wings
+    * Chicken Burger
+    * Pepsi Drink   
+    * French Fries
+* Enjoy the food
+     
