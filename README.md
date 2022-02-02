@@ -41,3 +41,27 @@ Vijayawada Internationl Airport
 > the purpose oy yours life is to be happy
  *Dalai Lama*
 
+ ---
+
+ > In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification.[1][2][3] More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data,[4] i.e., it is an algebraic structure about data.
+link <https://en.wikipedia.org/wiki/Data_structure>
+
+### removing an element
+
+```
+if(s2.empty()) {
+    while (!s1.empty()) {
+        int element = s1.top().first;
+        s1.pop();
+        int minimum = s2.empty() ? element : min(element, s2.top().second);
+        s2.push({element, minimum});
+    }
+}
+int remove_element = s2.top().first;
+s2.pop();
+```
+
+code link <https://cp-algorithms.com/data_structures/stack_queue_modification.html>
+
+
+
