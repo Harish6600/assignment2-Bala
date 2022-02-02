@@ -32,3 +32,12 @@ Vijayawada Internationl Airport
 | Cricket | Sports Stadium | 10 |
 | Baket ball | Gym base | 15 |
 | Reck | Reck stand | 20 |
+
+---
+
+> give respect and take respect
+ *Universal truth*
+
+> the purpose oy yours life is to be happy
+ *Dalai Lama*
+
