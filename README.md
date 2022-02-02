@@ -25,3 +25,10 @@ Vijayawada Internationl Airport
 
 # AboutMe Link
 [Google](https://github.com/Harish6600/assignment2-Bala/blob/main/README.md)
+
+# Creating a sports table
+| Sport | location | payment |
+| --- | --- | ---: |
+| Cricket | Sports Stadium | 10 |
+| Baket ball | Gym base | 15 |
+| Reck | Reck stand | 20 |
